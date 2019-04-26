@@ -1,7 +1,5 @@
-﻿5x Wilderness Reclamation
-1x World Shaper
-3x Crucible of Worlds
-4x Simic Ascendancy
-5x Promo - Growth Spiral
+﻿3x Crucible of Worlds
+Growth Spiral
+Simic Ascendancy
 ------------------------------
 GitHub Desktop
