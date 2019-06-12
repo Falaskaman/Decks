@@ -1,5 +1,4 @@
-﻿Magic:
-    X is determined once and is 0 when not decided
-    * is constantly updated in all zones
-        ex. Voice of Resurgence makes a */* creature that changes
-            Miming slime makes an X/X that doesnt change
+﻿X is determined once and is 0 when not decided
+* is constantly updated in all zones
+    ex. Voice of Resurgence makes a */* creature that changes
+        Miming slime makes an X/X that doesnt change
