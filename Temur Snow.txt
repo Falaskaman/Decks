@@ -9,3 +9,12 @@ Arcum's Astrolabe
 Glacial Revelation
 Marit Lage's Slumber
 Skred
+
+
+If you want to reliably (90%) have drawn 3 snow cards by turn 3 on the play, you need 28-29 snow cards in your deck.
+
+If you're ok with 2 snow cards by turn 3 on the play, you would need 21-22 snow cards in your deck.
+
+This is a simplification, but gives you an idea of the numbers.
+
+(Important note: in practical terms, fetchlands also count as snow cards)
