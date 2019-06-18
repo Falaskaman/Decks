@@ -5,7 +5,10 @@
 4x Hexdrinker
 4x Astral Drift
 4x Force of Negation
+4x Ice-Fang Coatl
 
+Risen Reef
+    3 mana elemental coiling oracle
 Savage Swipe
 Waterlogged Grove
 Wrenn and Six
