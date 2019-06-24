@@ -7,19 +7,27 @@
 4x Force of Negation
 4x Ice-Fang Coatl
 4x Season of Growth (evolve deck)
-
+    Scry 1 when creature ETB, draw when you target your creatures
+------------------------------------
+Cavalier of Squall
+Gargos, Vicious Warden
+    Hydra tribal? Hydra tron?
+Leyline of Anticipation
 Risen Reef
     3 mana elemental coiling oracle
 Savage Swipe
 Waterlogged Grove
+    Pain land + sac and draw
 Wrenn and Six
 Ayula, Queen Among Bears
 Ayula's Influence
 Squirrel Nest
 Scale Up
 Fact or Fiction
-
 Dreadhorde Arcanist
 Vivien, Champion of the Wilds
-------------------------------
-GitHub Desktop
+Brineborn Cutthroat
+
+Lands toolbox/matter deck
+    Elvish Reclaimer
+    Cryptic Cave (land, sac and draw a card)
