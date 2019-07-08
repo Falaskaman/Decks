@@ -1,0 +1,12 @@
+﻿Courser of Kruphix
+Herald of the Pantheon
+
+Kiora's Dismissal
+Kruphix's Insight
+Reviving Melody
+    2G Sorcery: return target creature and/or enchantment from GY to hand
+Strength from the fallen
+    1G Enchantment: when this or another Enchantment ETB give creature +X/X where X=number of creatures in your gy
+
+Spreading Seas
+Blood Moon

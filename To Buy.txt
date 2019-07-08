@@ -1,24 +1,25 @@
-﻿3x Crucible of Worlds
-4x Eldamri's Call
-1x Talisman of Curiosity
-4x Springbloom Druid
-4x Hexdrinker
-4x Astral Drift
-4x Force of Negation
-4x Ice-Fang Coatl
-4x Season of Growth (evolve deck)
+﻿Return to Nature x 4-6
+    better natures claim
+Hexdrinker
+Astral Drift
+Ice-Fang Coatl
+Season of Growth (evolve deck)
     Scry 1 when creature ETB, draw when you target your creatures
 ------------------------------------
+Force of Negation ( currently expensive)
+Ward of Bones
+World Breaker
+Crucible of Worlds
+Eldamri's Call
+Talisman of Curiosity
+Springbloom Druid
 Cavalier of Squall
-Gargos, Vicious Warden
-    Hydra tribal? Hydra tron?
 Leyline of Anticipation
 Risen Reef
     3 mana elemental coiling oracle
 Savage Swipe
 Waterlogged Grove
     Pain land + sac and draw
-Wrenn and Six
 Ayula, Queen Among Bears
 Ayula's Influence
 Squirrel Nest
@@ -31,3 +32,4 @@ Brineborn Cutthroat
 Lands toolbox/matter deck
     Elvish Reclaimer
     Cryptic Cave (land, sac and draw a card)
+
