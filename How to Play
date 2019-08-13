@@ -1,0 +1,64 @@
+﻿Basics
+    Each player starts with 7 cards in hand
+    High roll to see who goes first, each player starts at 20 life. whoever dies first loses
+    60 cards in each deck (a little more than 1/3 are lands)
+    only 4 copies of each card (except basic lands)
+    these are general rules and should be followed at all times EXCEPT when a card specifies otherwise
+        ex. ".... enters the battlefield tapped" will override the default rule that everything enters untapped
+
+Turn Phases
+*Untap
+    untap all of your cards on the table
+*Upkeep
+    ignore unless a card mentions the upkeep
+*Draw
+    The first player does not draw on thier first turn
+*Main phase 1
+    can play 1 land a turn
+    everything enters untapped
+    can play any card
+*Attack phase
+    you do not have to attack, and if you do you do not have to attack with all creatures
+    creature cannot have been cast this turn
+    choose which of your creatures will attack, tap them
+    then your opponent chooses which creatures (if any) will block each attacker
+        to block a creature must be untapped
+        blocking does not tap creatures
+    when attackers and blockers are set, damage is dealt
+        creatures deal damage to each other at the same time
+        unblocked creatures deal damage to the player
+*Main phase (you do not have to play anything)
+    same as above (if you played a land earlier you cannot now)
+
+Colors
+    Red
+    Green
+    Blue:
+    Black: no pain no gain
+    White: Denial, also small creatures
+
+Card Types
+    Land/Basic Land
+        can play one on each of you turns
+        tap it to produce 1 mana of its color
+    Creature
+        cannot attack on the turn its played
+        must tap to attack
+        does not tap to block (but must be untapped)
+        power/toughness in bottom right
+        at the end of every turn, all creatures return to full health
+    Sorcery
+        one time effect
+    Enchantment
+        constant effect
+    Artifact
+        constant effect
+
+    Planeswalker
+        can activate once each turn
+        instead of attacking a player, you can attack a PW they control
+            they block as normal
+        loyalty counters = health
+    Instant
+        can be played at any time
+        one time effect
