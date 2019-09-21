@@ -1,0 +1,8 @@
+﻿Show Phases         #? L
+Full Control        #? Ctrl
+Hold Full Control   # ? Shift + Ctrl
+Pass Until Response # ? Enter
+Pass Turn           # ? Shift + Enter
+Undo                # ? Z
+Pass Priority       # ? Space
+
