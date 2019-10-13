@@ -10,7 +10,6 @@ Ward of Bones
 World Breaker
 Talisman of Curiosity
 Springbloom Druid
-Cavalier of Squall
 Risen Reef
     3 mana elemental coiling oracle
 Savage Swipe
@@ -19,13 +18,34 @@ Waterlogged Grove
 Ayula, Queen Among Bears
 Ayula's Influence
 Squirrel Nest
-Scale Up
 Fact or Fiction
 Vivien, Champion of the Wilds
-Thunderous Snapper
 Mystic Sanctuary
+Arixmethes, Slumbering Isle
+Torrential Gearhulk
+Stunt Double
+Nezahal, Primal Tide
+Yeva, Nature's Herald
+Altered Ego
+Avenger of Zendikar
+Wood Elves
+Beast Whisperer
+Wall of Stolen Identity
+    Spellseeker
+Pull from TOmorrow
+Insidious Will
+Desertion
+Capsize
+Stroke of Genius
+Lifecrafters Beastiary
+Ponder
+Seasons Past
+Explosive Vegetation
+Natures Lore
+Regrowth
+Broken Bond
 
-Castle Garenbrig
+
 Brineborn Cutthroat
 ------------------------------------
     Simic Creatures/ 1/1 counters
@@ -33,7 +53,6 @@ Yorvo, Lord of Garenbrig
 The Great Henge
 Animating Faerie
 Beanstalk Giant
-Winldborn Preserver
 Hypnotic Sprite
 
 ------------------------------------------------------------------------
