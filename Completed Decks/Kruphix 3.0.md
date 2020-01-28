@@ -83,3 +83,8 @@ prosperity
 mystic sanctuary
 island x9
 forest x10
+
+## Maybelist
+
+* Field of the Dead: landfall: if 7+ dif. names, make a 2/2
+*
